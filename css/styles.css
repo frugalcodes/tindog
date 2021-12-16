@@ -1,0 +1,224 @@
+
+
+#title {
+    background-color: #ff4c68;
+}
+
+.container-fluid {
+    padding: 3% 10% 9%;
+    
+}
+
+.row-adjust {
+    width: 70%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+#testimonials {
+    text-align: center;
+    color: #fff;
+    background-color: #ff4c68;
+
+
+}
+
+.img-arrg {
+    margin-left: 20px;
+    transform: rotate(20deg);
+    width: 60%;
+    position: absolute;
+ }
+
+#features {
+    padding-bottom: 7%; 
+    position: relative;
+    background-color: #fff;
+    z-index: 1;
+    
+}
+
+.carousel-item {
+    padding: 7% 15%;
+}
+.press-img {
+    width: 10%;
+    margin-left: 15px;
+    margin-right: 15px;
+    text-align: center;
+}
+#press {
+    background-color: #ff4c68;
+    text-align: center;
+    padding-bottom: 7%;
+}
+h2 {
+    font-family: montserrat;
+    font-weight: 700;
+    width: 89%;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    font-size: 40px;
+}
+.testimonial-image {
+    border-radius: 100%;
+    width: 5%;
+}
+
+h1 {
+    
+    line-height: 1.5;
+    font-size: 3.5rem;
+   
+    
+
+}
+
+.for-h1 {
+    margin-left: 10px;
+    padding-left: 8px;
+    color: white;
+    padding-bottom: 50px;
+    font-family: montserrat;
+    font-weight: 700;
+
+}
+
+.sam-btn {
+    margin-left: 20px;
+}
+
+.sam-logo {
+    font-size: 30px;
+    
+}
+
+
+.mg-down1 {
+    margin-bottom: 50px;
+}
+
+#nav-spc {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+
+
+
+
+
+#nav-spc1 {
+    padding-right: 80px;
+}
+
+.icon-cl {
+    color: #ef8172;
+}
+.icon-cl :hover {
+      color: #ff4c68;
+}
+.h3-see {
+    font-family: montserrat;
+    font-weight: 700;
+    font-size: 1.5rem;
+    margin-top: 15px;
+}
+
+.p-pro {
+    color: #8f8f8f;
+    font-family: montserrat;
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.row-redo {
+    text-align: center;
+    margin-top: 8rem;
+    
+}
+
+#pricing {
+    padding: 7% 12%;
+    text-align: center;
+}
+
+.pricing-text {
+    text-align: center;
+    margin-top: 35px;
+   
+}
+
+h4 {
+    font-family: montserrat;
+    font-weight: 600;
+    font-size: 35px;
+}
+
+p {
+    font-family: montserrat;
+    
+   
+}
+
+h5 {
+    font-family: montserrat;
+    font-weight: bolder;
+    font-size: 35px;
+
+}
+
+h6 {
+    font-family: montserrat;
+    font-weight: bolder;
+    font-size: 20px;
+}
+
+.card-cont {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+
+@media (max-width: 1000px) {
+
+    #title {
+        text-align: center;
+    }
+    .img-arrg {
+        position: static;
+        transform: rotate(0);
+        margin-top: 30px;
+    }
+}
+
+#cta {
+    background-color: #ff4c68;
+    padding: 7% 15%;
+    text-align: center;
+}
+
+.cta-text {
+    font-family: montserrat;
+    font-size: 35px;
+    font-weight: 900;
+    color: #fff;
+}
+
+#footer {
+    padding: 5% 15% 2%;
+    text-align: center;
+    font-family: montserrat;
+    font-size: 25px;
+}
+
+.icon-adjustment {
+    margin-left: 15px;
+    margin-right: 15px;
+}
+
+.btn-adjust {
+    margin: 25px 15px 0;
+}
